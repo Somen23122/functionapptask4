@@ -6,13 +6,13 @@
             "value": "357b74e2-9aef-41a4-b229-a68d497e1029"
         },
         "name": {
-            "value": "deployfunction-2303"
+            "value": "fnsomenapp"
         },
         "location": {
             "value": "Central US"
         },
         "hostingPlanName": {
-            "value": "ASP-FunctionAPPdemo-990e"
+            "value": "ASP-FunctionAPPdemo-a97e"
         },
         "serverFarmResourceGroup": {
             "value": "FunctionAPPdemo"
@@ -24,7 +24,7 @@
             "value": "FtpsOnly"
         },
         "storageAccountName": {
-            "value": "functionappdemob1be"
+            "value": "functionappdemo9da7"
         },
         "sku": {
             "value": "Dynamic"
@@ -42,10 +42,16 @@
             "value": "1"
         },
         "use32BitWorkerProcess": {
-            "value": true
+            "value": false
         },
         "linuxFxVersion": {
-            "value": "DOTNET|6.0"
+            "value": "Python|3.9"
+        },
+        "repoUrl": {
+            "value": "https://github.com/Somen23122/functionapptask4"
+        },
+        "branch": {
+            "value": "master"
         }
     }
 }
