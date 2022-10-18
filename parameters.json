@@ -11,6 +11,9 @@
         "location": {
             "value": "Central US"
         },
+        "hostingPlanName": {
+            "value": "ASP-FunctionAPPdemo-990e"
+        },
         "serverFarmResourceGroup": {
             "value": "FunctionAPPdemo"
         },
